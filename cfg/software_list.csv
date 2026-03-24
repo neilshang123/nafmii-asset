@@ -1,3 +1,6 @@
 软件名称,下载地址,内网,外网,互联网
 7-zip,7-zip.exe,y,y,
-WPS Office,https://pubwps-wps365-obs.wpscdn.cn/download/365plus/12.1.0.25225/WPS365_office_12.1.0.25225_51.403.exe,,y,y
+WPS Office（官网下载）,https://pubwps-wps365-obs.wpscdn.cn/download/365plus/12.1.0.25225/WPS365_office_12.1.0.25225_51.403.exe,,y,y
+WPS-pdf-内网（自动激活）,WPS-pdf-内网（win）.exe,y,,
+WPS安装包-内网（自动激活）,WPS安装包-内网（win）.exe,y,,
+WPS安装包-外网（扫码激活）,WPS安装包-外网（win）.exe,,y,
