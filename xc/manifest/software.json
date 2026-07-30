@@ -1,0 +1,43 @@
+{
+  "version": "5",
+  "wps_benefit_qr": {
+    "intranet": "",
+    "extranet": "assets/wps/wps_benefit_qr.png",
+    "internet": ""
+  },
+  "software": [
+    {
+      "id": "wps-office-intranet",
+      "name": "WPS办公软件",
+      "file": "wpsoffice_2026_内网.deb",
+      "show_in_intranet": true,
+      "show_in_extranet": false,
+      "show_in_internet": false,
+      "architecture": "arm64",
+      "install_method": "deb",
+      "package_name": "wps-office"
+    },
+    {
+      "id": "wps-office-extranet",
+      "name": "WPS办公软件",
+      "file": "wpsoffice_2026_外网.deb",
+      "show_in_intranet": false,
+      "show_in_extranet": true,
+      "show_in_internet": false,
+      "architecture": "arm64",
+      "install_method": "deb",
+      "package_name": "wps-office"
+    },
+    {
+      "id": "wps-office-pdf",
+      "name": "WPS-PDF专业版",
+      "file": "wpspdf_2026_内网.deb",
+      "show_in_intranet": true,
+      "show_in_extranet": false,
+      "show_in_internet": false,
+      "architecture": "arm64",
+      "install_method": "deb",
+      "package_name": "wps-office-pdf"
+    }
+  ]
+}

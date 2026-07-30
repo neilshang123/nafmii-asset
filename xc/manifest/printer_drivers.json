@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "drivers": [
+    {
+      "brand": "惠普",
+      "model": "*",
+      "display_name": "惠普通用打印机",
+      "package": "hplip.tar.gz"
+    },
+    {
+      "brand": "佳能",
+      "model": "C5560",
+      "display_name": "佳能 C5560",
+      "package": "canon-c5560.tar.gz"
+    },
+    {
+      "brand": "联想",
+      "model": "2510",
+      "display_name": "联想 2510",
+      "package": "lenovo-2510.tar.gz"
+    },
+    {
+      "brand": "京瓷",
+      "model": "P4135dn",
+      "display_name": "京瓷 P4135dn",
+      "package": "kyocera-p4135dn.tar.gz"
+    }
+  ]
+}
